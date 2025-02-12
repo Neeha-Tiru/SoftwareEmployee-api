@@ -1,0 +1,182 @@
+[
+	{
+		"employee_id": "E12345",
+		"full_name": "John Doe",
+		"position": "Software Engineer",
+		"department": "Development",
+		"salary_details": {
+			"base_salary": 80000,
+			"bonus": 5000,
+			"benefits": {
+				"health_insurance": 2000,
+				"retirement_fund": 3000,
+				"other_benefits": 1500
+			},
+			"total_compensation": 95000
+		},
+		"location": "New York",
+		"hire_date": "2021-06-15"
+	},
+	{
+		"employee_id": "E12346",
+		"full_name": "Jane Smith",
+		"position": "Product Manager",
+		"department": "Product",
+		"salary_details": {
+			"base_salary": 95000,
+			"bonus": 7000,
+			"benefits": {
+				"health_insurance": 2500,
+				"retirement_fund": 4000,
+				"other_benefits": 1800
+			},
+			"total_compensation": 115300
+		},
+		"location": "San Francisco",
+		"hire_date": "2020-09-10"
+	},
+	{
+		"employee_id": "E12347",
+		"full_name": "Alice Johnson",
+		"position": "UX Designer",
+		"department": "Design",
+		"salary_details": {
+			"base_salary": 75000,
+			"bonus": 4000,
+			"benefits": {
+				"health_insurance": 2200,
+				"retirement_fund": 3000,
+				"other_benefits": 1200
+			},
+			"total_compensation": 93000
+		},
+		"location": "Austin",
+		"hire_date": "2019-12-05"
+	},
+	{
+		"employee_id": "E12348",
+		"full_name": "Michael Lee",
+		"position": "QA Engineer",
+		"department": "Quality Assurance",
+		"salary_details": {
+			"base_salary": 70000,
+			"bonus": 3000,
+			"benefits": {
+				"health_insurance": 1800,
+				"retirement_fund": 2500,
+				"other_benefits": 1000
+			},
+			"total_compensation": 86000
+		},
+		"location": "Seattle",
+		"hire_date": "2022-03-18"
+	},
+	{
+		"employee_id": "E12349",
+		"full_name": "David Brown",
+		"position": "DevOps Engineer",
+		"department": "Infrastructure",
+		"salary_details": {
+			"base_salary": 105000,
+			"bonus": 8000,
+			"benefits": {
+				"health_insurance": 2700,
+				"retirement_fund": 3500,
+				"other_benefits": 2000
+			},
+			"total_compensation": 126200
+		},
+		"location": "Los Angeles",
+		"hire_date": "2018-05-12"
+	},
+	{
+		"employee_id": "E12350",
+		"full_name": "Sophia Davis",
+		"position": "Software Engineer",
+		"department": "Development",
+		"salary_details": {
+			"base_salary": 82000,
+			"bonus": 6000,
+			"benefits": {
+				"health_insurance": 2100,
+				"retirement_fund": 3100,
+				"other_benefits": 1400
+			},
+			"total_compensation": 98000
+		},
+		"location": "Chicago",
+		"hire_date": "2021-02-20"
+	},
+	{
+		"employee_id": "E12351",
+		"full_name": "James Wilson",
+		"position": "Security Engineer",
+		"department": "Security",
+		"salary_details": {
+			"base_salary": 90000,
+			"bonus": 7000,
+			"benefits": {
+				"health_insurance": 2300,
+				"retirement_fund": 3200,
+				"other_benefits": 1700
+			},
+			"total_compensation": 113200
+		},
+		"location": "Boston",
+		"hire_date": "2017-07-25"
+	},
+	{
+		"employee_id": "E12352",
+		"full_name": "Ethan Harris",
+		"position": "Frontend Developer",
+		"department": "Development",
+		"salary_details": {
+			"base_salary": 78000,
+			"bonus": 4500,
+			"benefits": {
+				"health_insurance": 2100,
+				"retirement_fund": 2800,
+				"other_benefits": 1300
+			},
+			"total_compensation": 100700
+		},
+		"location": "Miami",
+		"hire_date": "2019-11-11"
+	},
+	{
+		"employee_id": "E12353",
+		"full_name": "Olivia Martinez",
+		"position": "Backend Developer",
+		"department": "Development",
+		"salary_details": {
+			"base_salary": 88000,
+			"bonus": 5500,
+			"benefits": {
+				"health_insurance": 2200,
+				"retirement_fund": 3000,
+				"other_benefits": 1500
+			},
+			"total_compensation": 106200
+		},
+		"location": "Dallas",
+		"hire_date": "2020-04-17"
+	},
+	{
+		"employee_id": "E12354",
+		"full_name": "Lucas Thompson",
+		"position": "Systems Architect",
+		"department": "Architecture",
+		"salary_details": {
+			"base_salary": 120000,
+			"bonus": 10000,
+			"benefits": {
+				"health_insurance": 3000,
+				"retirement_fund": 4000,
+				"other_benefits": 2500
+			},
+			"total_compensation": 146500
+		},
+		"location": "San Diego",
+		"hire_date": "2015-10-30"
+	}
+]
